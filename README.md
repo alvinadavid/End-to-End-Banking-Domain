@@ -17,3 +17,5 @@ Data manipulation and exploration with Pandas
 Visualization with Seaborn and Matplotlib
 
 Risk analytics and banking domain datasets analysis
+
+SQL for data storage
